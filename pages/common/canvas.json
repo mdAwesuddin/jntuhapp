@@ -159,8 +159,8 @@
                       "widgetName": "Text2",
                       "displayName": "Text",
                       "iconSVG": "/static/media/icon.97c59b52.svg",
-                      "topRow": 20,
-                      "bottomRow": 24,
+                      "topRow": 21,
+                      "bottomRow": 25,
                       "parentRowSpace": 10,
                       "type": "TEXT_WIDGET",
                       "hideCard": false,
@@ -169,7 +169,7 @@
                       "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
                       "parentColumnSpace": 13.75,
                       "dynamicTriggerPathList": [],
-                      "leftColumn": 17,
+                      "leftColumn": 18,
                       "dynamicBindingPathList": [
                         {
                           "key": "fontFamily"
@@ -183,7 +183,7 @@
                       "text": "Maths-1",
                       "key": "cogp33p86m",
                       "isDeprecated": false,
-                      "rightColumn": 45,
+                      "rightColumn": 46,
                       "textAlign": "CENTER",
                       "widgetId": "aiiz3c735v",
                       "isVisible": true,
@@ -254,7 +254,7 @@
                       "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
                       "parentColumnSpace": 13.75,
                       "dynamicTriggerPathList": [],
-                      "leftColumn": 16,
+                      "leftColumn": 17,
                       "dynamicBindingPathList": [
                         {
                           "key": "fontFamily"
@@ -268,7 +268,7 @@
                       "text": "Physics",
                       "key": "cogp33p86m",
                       "isDeprecated": false,
-                      "rightColumn": 45,
+                      "rightColumn": 46,
                       "textAlign": "CENTER",
                       "widgetId": "21oqe8j0cm",
                       "isVisible": true,
@@ -339,7 +339,7 @@
                       "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
                       "parentColumnSpace": 13.75,
                       "dynamicTriggerPathList": [],
-                      "leftColumn": 16,
+                      "leftColumn": 17,
                       "dynamicBindingPathList": [
                         {
                           "key": "fontFamily"
@@ -353,7 +353,7 @@
                       "text": "Chemistry",
                       "key": "1ljlca04ot",
                       "isDeprecated": false,
-                      "rightColumn": 45,
+                      "rightColumn": 46,
                       "textAlign": "CENTER",
                       "widgetId": "65jb6xb5ip",
                       "isVisible": true,
@@ -424,7 +424,7 @@
                       "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
                       "parentColumnSpace": 13.75,
                       "dynamicTriggerPathList": [],
-                      "leftColumn": 16,
+                      "leftColumn": 18,
                       "dynamicBindingPathList": [
                         {
                           "key": "fontFamily"
@@ -438,7 +438,7 @@
                       "text": "Environmental science",
                       "key": "nawxmvalwy",
                       "isDeprecated": false,
-                      "rightColumn": 45,
+                      "rightColumn": 47,
                       "textAlign": "CENTER",
                       "widgetId": "9olkd3uge7",
                       "isVisible": true,
@@ -509,7 +509,7 @@
                       "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
                       "parentColumnSpace": 13.75,
                       "dynamicTriggerPathList": [],
-                      "leftColumn": 17,
+                      "leftColumn": 18,
                       "dynamicBindingPathList": [
                         {
                           "key": "fontFamily"
@@ -523,7 +523,7 @@
                       "text": "Programming and problem solving",
                       "key": "nawxmvalwy",
                       "isDeprecated": false,
-                      "rightColumn": 46,
+                      "rightColumn": 47,
                       "textAlign": "CENTER",
                       "widgetId": "94swtxuf9r",
                       "isVisible": true,
