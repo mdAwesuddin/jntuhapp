@@ -34,7 +34,7 @@
               "displayName": "Container",
               "iconSVG": "/static/media/icon.1977dca3.svg",
               "topRow": 1,
-              "bottomRow": 103,
+              "bottomRow": 102,
               "parentRowSpace": 10,
               "type": "CONTAINER_WIDGET",
               "hideCard": false,
@@ -237,6 +237,7 @@
                     },
                     {
                       "widgetName": "Text1",
+                      "borderColor": "#18181b",
                       "displayName": "Text",
                       "iconSVG": "/static/media/icon.97c59b52.svg",
                       "topRow": 0,
@@ -259,6 +260,7 @@
                         }
                       ],
                       "shouldTruncate": false,
+                      "borderWidth": "1",
                       "truncateButtonColor": "#FFC13D",
                       "text": "JNTUH NOTES\n                                       FOR ALL BRANCHES",
                       "key": "0kzmstubkb",
@@ -648,7 +650,7 @@
                       "widgetName": "Text4",
                       "displayName": "Text",
                       "iconSVG": "/static/media/icon.97c59b52.svg",
-                      "topRow": 85,
+                      "topRow": 82,
                       "bottomRow": 99,
                       "parentRowSpace": 10,
                       "type": "TEXT_WIDGET",
@@ -672,7 +674,7 @@
                       "text": "Design And Developed By:Md AwesUddin",
                       "key": "0kzmstubkb",
                       "isDeprecated": false,
-                      "rightColumn": 20,
+                      "rightColumn": 24,
                       "textAlign": "LEFT",
                       "widgetId": "arvsehqm34",
                       "isVisible": true,
@@ -689,7 +691,7 @@
                       "widgetName": "Text5",
                       "displayName": "Text",
                       "iconSVG": "/static/media/icon.97c59b52.svg",
-                      "topRow": 85,
+                      "topRow": 83,
                       "bottomRow": 98,
                       "parentRowSpace": 10,
                       "type": "TEXT_WIDGET",
@@ -699,7 +701,7 @@
                       "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
                       "parentColumnSpace": 13.310546875,
                       "dynamicTriggerPathList": [],
-                      "leftColumn": 40,
+                      "leftColumn": 36,
                       "dynamicBindingPathList": [
                         {
                           "key": "fontFamily"
