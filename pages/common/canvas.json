@@ -215,7 +215,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 22,
+                      "leftColumn": 20,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -254,7 +254,7 @@
                       "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
                       "parentColumnSpace": 13.75,
                       "dynamicTriggerPathList": [],
-                      "leftColumn": 17,
+                      "leftColumn": 16,
                       "dynamicBindingPathList": [
                         {
                           "key": "fontFamily"
@@ -268,7 +268,7 @@
                       "text": "Physics",
                       "key": "cogp33p86m",
                       "isDeprecated": false,
-                      "rightColumn": 46,
+                      "rightColumn": 45,
                       "textAlign": "CENTER",
                       "widgetId": "21oqe8j0cm",
                       "isVisible": true,
@@ -300,7 +300,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 22,
+                      "leftColumn": 20,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -339,7 +339,7 @@
                       "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
                       "parentColumnSpace": 13.75,
                       "dynamicTriggerPathList": [],
-                      "leftColumn": 17,
+                      "leftColumn": 16,
                       "dynamicBindingPathList": [
                         {
                           "key": "fontFamily"
@@ -353,7 +353,7 @@
                       "text": "Chemistry",
                       "key": "1ljlca04ot",
                       "isDeprecated": false,
-                      "rightColumn": 46,
+                      "rightColumn": 45,
                       "textAlign": "CENTER",
                       "widgetId": "65jb6xb5ip",
                       "isVisible": true,
@@ -385,7 +385,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 22,
+                      "leftColumn": 20,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -424,7 +424,7 @@
                       "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
                       "parentColumnSpace": 13.75,
                       "dynamicTriggerPathList": [],
-                      "leftColumn": 17,
+                      "leftColumn": 16,
                       "dynamicBindingPathList": [
                         {
                           "key": "fontFamily"
@@ -438,7 +438,7 @@
                       "text": "Environmental science",
                       "key": "nawxmvalwy",
                       "isDeprecated": false,
-                      "rightColumn": 46,
+                      "rightColumn": 45,
                       "textAlign": "CENTER",
                       "widgetId": "9olkd3uge7",
                       "isVisible": true,
@@ -470,7 +470,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 22,
+                      "leftColumn": 20,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -555,7 +555,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 22,
+                      "leftColumn": 20,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
