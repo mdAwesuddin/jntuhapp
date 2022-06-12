@@ -739,17 +739,13 @@
                       "animateLoading": true,
                       "parentColumnSpace": 13.310546875,
                       "dynamicTriggerPathList": [],
-                      "leftColumn": 1,
-                      "dynamicBindingPathList": [
-                        {
-                          "key": "activeColor"
-                        }
-                      ],
+                      "leftColumn": 23,
+                      "dynamicBindingPathList": [],
                       "isDisabled": false,
                       "key": "s9l8rm8o2z",
                       "isRequired": false,
                       "isDeprecated": false,
-                      "rightColumn": 11,
+                      "rightColumn": 63,
                       "inactiveColor": "#D6D6D6",
                       "widgetId": "8i77dxjutx",
                       "isVisible": true,
@@ -757,9 +753,9 @@
                       "renderMode": "CANVAS",
                       "isLoading": false,
                       "defaultRate": 3,
-                      "activeColor": "{{appsmith.theme.colors.primaryColor}}",
+                      "activeColor": "#facc15",
                       "size": "LARGE",
-                      "isAllowHalf": false,
+                      "isAllowHalf": true,
                       "tooltips": "[\n  \"Terrible\",\n  \"Bad\",\n  \"Neutral\",\n  \"Good\",\n  \"Great\"\n]"
                     }
                   ],
