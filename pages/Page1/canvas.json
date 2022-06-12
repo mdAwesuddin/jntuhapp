@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 1520,
+          "bottomRow": 1290,
           "containerStyle": "none",
           "snapRows": 125,
           "parentRowSpace": 1,
@@ -39,7 +39,7 @@
               "displayName": "Container",
               "iconSVG": "/static/media/icon.1977dca3.svg",
               "topRow": 0,
-              "bottomRow": 150,
+              "bottomRow": 123,
               "parentRowSpace": 10,
               "type": "CONTAINER_WIDGET",
               "hideCard": false,
@@ -180,7 +180,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 25,
+                      "leftColumn": 23,
                       "dynamicBindingPathList": [
                         {
                           "key": "buttonColor"
@@ -193,7 +193,7 @@
                       "text": "Click Here",
                       "isDisabled": false,
                       "key": "k8v89y4pw6",
-                      "rightColumn": 40,
+                      "rightColumn": 42,
                       "isDefaultClickDisabled": true,
                       "widgetId": "k4q18c2gzf",
                       "isVisible": true,
@@ -253,8 +253,8 @@
                       "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
                       "displayName": "Button",
                       "iconSVG": "/static/media/icon.cca02633.svg",
-                      "topRow": 59,
-                      "bottomRow": 64,
+                      "topRow": 60,
+                      "bottomRow": 65,
                       "parentRowSpace": 10,
                       "type": "BUTTON_WIDGET",
                       "hideCard": false,
@@ -265,7 +265,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 25,
+                      "leftColumn": 23,
                       "dynamicBindingPathList": [
                         {
                           "key": "buttonColor"
@@ -277,7 +277,7 @@
                       "text": "Click Here",
                       "isDisabled": false,
                       "key": "k8v89y4pw6",
-                      "rightColumn": 40,
+                      "rightColumn": 42,
                       "isDefaultClickDisabled": true,
                       "widgetId": "78k1xc8nxz",
                       "isVisible": true,
@@ -388,7 +388,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 25,
+                      "leftColumn": 23,
                       "dynamicBindingPathList": [
                         {
                           "key": "buttonColor"
@@ -400,7 +400,7 @@
                       "text": "Click Here",
                       "isDisabled": false,
                       "key": "vkg32qymzs",
-                      "rightColumn": 40,
+                      "rightColumn": 42,
                       "isDefaultClickDisabled": true,
                       "widgetId": "muyvbpmk77",
                       "isVisible": true,
@@ -472,7 +472,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 25,
+                      "leftColumn": 23,
                       "dynamicBindingPathList": [
                         {
                           "key": "buttonColor"
@@ -484,7 +484,7 @@
                       "text": "Click Here",
                       "isDisabled": false,
                       "key": "rbnagz75s2",
-                      "rightColumn": 40,
+                      "rightColumn": 42,
                       "isDefaultClickDisabled": true,
                       "widgetId": "1w3ozk8qe4",
                       "isVisible": true,
@@ -641,7 +641,7 @@
                       "dynamicBindingPathList": [],
                       "isDisabled": false,
                       "key": "m1gt7scx7v",
-                      "rightColumn": 8,
+                      "rightColumn": 14,
                       "iconName": "align-justify",
                       "menuVariant": "PRIMARY",
                       "widgetId": "2sb99osrwn",
