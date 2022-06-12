@@ -170,7 +170,7 @@
                       "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
                       "parentColumnSpace": 13.75,
                       "dynamicTriggerPathList": [],
-                      "leftColumn": 17,
+                      "leftColumn": 21,
                       "dynamicBindingPathList": [
                         {
                           "key": "fontFamily"
@@ -184,7 +184,7 @@
                       "text": "Maths-2",
                       "key": "cogp33p86m",
                       "isDeprecated": false,
-                      "rightColumn": 45,
+                      "rightColumn": 49,
                       "textAlign": "CENTER",
                       "widgetId": "aiiz3c735v",
                       "isVisible": true,
@@ -226,7 +226,7 @@
                       "isDisabled": false,
                       "key": "gy8khv0t0c",
                       "isDeprecated": false,
-                      "rightColumn": 41,
+                      "rightColumn": 47,
                       "isDefaultClickDisabled": true,
                       "iconName": "download",
                       "widgetId": "n3xh4341kp",
@@ -255,7 +255,7 @@
                       "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
                       "parentColumnSpace": 13.75,
                       "dynamicTriggerPathList": [],
-                      "leftColumn": 17,
+                      "leftColumn": 20,
                       "dynamicBindingPathList": [
                         {
                           "key": "fontFamily"
@@ -269,7 +269,7 @@
                       "text": "English",
                       "key": "cogp33p86m",
                       "isDeprecated": false,
-                      "rightColumn": 46,
+                      "rightColumn": 49,
                       "textAlign": "CENTER",
                       "widgetId": "21oqe8j0cm",
                       "isVisible": true,
@@ -311,7 +311,7 @@
                       "isDisabled": false,
                       "key": "gy8khv0t0c",
                       "isDeprecated": false,
-                      "rightColumn": 41,
+                      "rightColumn": 47,
                       "isDefaultClickDisabled": true,
                       "iconName": "download",
                       "widgetId": "xseougqtr8",
@@ -330,8 +330,8 @@
                       "widgetName": "Text5",
                       "displayName": "Text",
                       "iconSVG": "/static/media/icon.97c59b52.svg",
-                      "topRow": 41,
-                      "bottomRow": 45,
+                      "topRow": 42,
+                      "bottomRow": 46,
                       "parentRowSpace": 10,
                       "type": "TEXT_WIDGET",
                       "hideCard": false,
@@ -340,7 +340,7 @@
                       "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
                       "parentColumnSpace": 13.75,
                       "dynamicTriggerPathList": [],
-                      "leftColumn": 17,
+                      "leftColumn": 20,
                       "dynamicBindingPathList": [
                         {
                           "key": "fontFamily"
@@ -354,7 +354,7 @@
                       "text": "Chemistry",
                       "key": "1ljlca04ot",
                       "isDeprecated": false,
-                      "rightColumn": 46,
+                      "rightColumn": 49,
                       "textAlign": "CENTER",
                       "widgetId": "65jb6xb5ip",
                       "isVisible": true,
@@ -396,7 +396,7 @@
                       "isDisabled": false,
                       "key": "aukh9ce361",
                       "isDeprecated": false,
-                      "rightColumn": 41,
+                      "rightColumn": 47,
                       "isDefaultClickDisabled": true,
                       "iconName": "download",
                       "widgetId": "vm2c9yynor",
@@ -415,8 +415,8 @@
                       "widgetName": "Text6",
                       "displayName": "Text",
                       "iconSVG": "/static/media/icon.97c59b52.svg",
-                      "topRow": 52,
-                      "bottomRow": 56,
+                      "topRow": 51,
+                      "bottomRow": 55,
                       "parentRowSpace": 10,
                       "type": "TEXT_WIDGET",
                       "hideCard": false,
@@ -425,7 +425,7 @@
                       "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
                       "parentColumnSpace": 13.75,
                       "dynamicTriggerPathList": [],
-                      "leftColumn": 17,
+                      "leftColumn": 20,
                       "dynamicBindingPathList": [
                         {
                           "key": "fontFamily"
@@ -439,7 +439,7 @@
                       "text": "Engineering mechanics",
                       "key": "nawxmvalwy",
                       "isDeprecated": false,
-                      "rightColumn": 46,
+                      "rightColumn": 49,
                       "textAlign": "CENTER",
                       "widgetId": "9olkd3uge7",
                       "isVisible": true,
@@ -481,7 +481,7 @@
                       "isDisabled": false,
                       "key": "hxygoc3idh",
                       "isDeprecated": false,
-                      "rightColumn": 41,
+                      "rightColumn": 47,
                       "isDefaultClickDisabled": true,
                       "iconName": "download",
                       "widgetId": "5adwjcm0h2",
@@ -510,7 +510,7 @@
                       "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
                       "parentColumnSpace": 13.75,
                       "dynamicTriggerPathList": [],
-                      "leftColumn": 17,
+                      "leftColumn": 20,
                       "dynamicBindingPathList": [
                         {
                           "key": "fontFamily"
@@ -524,7 +524,7 @@
                       "text": "Engineering graphics",
                       "key": "nawxmvalwy",
                       "isDeprecated": false,
-                      "rightColumn": 46,
+                      "rightColumn": 49,
                       "textAlign": "CENTER",
                       "widgetId": "94swtxuf9r",
                       "isVisible": true,
@@ -566,7 +566,7 @@
                       "isDisabled": false,
                       "key": "hxygoc3idh",
                       "isDeprecated": false,
-                      "rightColumn": 41,
+                      "rightColumn": 47,
                       "isDefaultClickDisabled": true,
                       "iconName": "download",
                       "widgetId": "n8n0knv506",
@@ -595,7 +595,7 @@
                       "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
                       "parentColumnSpace": 13.75,
                       "dynamicTriggerPathList": [],
-                      "leftColumn": 17,
+                      "leftColumn": 20,
                       "dynamicBindingPathList": [
                         {
                           "key": "fontFamily"
@@ -609,7 +609,7 @@
                       "text": "C programming",
                       "key": "nawxmvalwy",
                       "isDeprecated": false,
-                      "rightColumn": 46,
+                      "rightColumn": 49,
                       "textAlign": "CENTER",
                       "widgetId": "nodas39528",
                       "isVisible": true,
@@ -651,7 +651,7 @@
                       "isDisabled": false,
                       "key": "hxygoc3idh",
                       "isDeprecated": false,
-                      "rightColumn": 41,
+                      "rightColumn": 47,
                       "isDefaultClickDisabled": true,
                       "iconName": "download",
                       "widgetId": "98tl0sm9ig",
