@@ -4,10 +4,10 @@
   "unreadCommentThreads": 0,
   "color": "#FFEBFB",
   "unpublishedAppLayout": {
-    "type": "FLUID"
+    "type": "DESKTOP"
   },
   "publishedAppLayout": {
-    "type": "FLUID"
+    "type": "DESKTOP"
   },
   "evaluationVersion": 2,
   "applicationVersion": 2,
