@@ -13,7 +13,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "Page1",
+    "pageId": "Home",
     "actionConfiguration": {
       "paginationType": "NONE",
       "encodeParamsToggle": true,
@@ -51,7 +51,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "id": "Page1_Query2",
+  "id": "Home_Query2",
   "deleted": false,
   "gitSyncId": "6292423bb4c51656bfeabee6_62a5a468c269a01a4277e7ff"
 }
