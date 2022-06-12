@@ -125,8 +125,8 @@
                       "widgetName": "Text2",
                       "displayName": "Text",
                       "iconSVG": "/static/media/icon.97c59b52.svg",
-                      "topRow": 33,
-                      "bottomRow": 42,
+                      "topRow": 34,
+                      "bottomRow": 39,
                       "parentRowSpace": 10,
                       "type": "TEXT_WIDGET",
                       "hideCard": false,
@@ -168,8 +168,8 @@
                       "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
                       "displayName": "Button",
                       "iconSVG": "/static/media/icon.cca02633.svg",
-                      "topRow": 43,
-                      "bottomRow": 48,
+                      "topRow": 40,
+                      "bottomRow": 45,
                       "parentRowSpace": 10,
                       "type": "BUTTON_WIDGET",
                       "hideCard": false,
@@ -180,7 +180,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 20,
+                      "leftColumn": 19,
                       "dynamicBindingPathList": [
                         {
                           "key": "buttonColor"
@@ -193,7 +193,7 @@
                       "text": "Click Here",
                       "isDisabled": false,
                       "key": "k8v89y4pw6",
-                      "rightColumn": 45,
+                      "rightColumn": 44,
                       "isDefaultClickDisabled": true,
                       "widgetId": "k4q18c2gzf",
                       "isVisible": true,
@@ -210,8 +210,8 @@
                       "widgetName": "Text3",
                       "displayName": "Text",
                       "iconSVG": "/static/media/icon.97c59b52.svg",
-                      "topRow": 49,
-                      "bottomRow": 58,
+                      "topRow": 46,
+                      "bottomRow": 52,
                       "parentRowSpace": 10,
                       "type": "TEXT_WIDGET",
                       "hideCard": false,
@@ -253,8 +253,8 @@
                       "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
                       "displayName": "Button",
                       "iconSVG": "/static/media/icon.cca02633.svg",
-                      "topRow": 60,
-                      "bottomRow": 65,
+                      "topRow": 53,
+                      "bottomRow": 58,
                       "parentRowSpace": 10,
                       "type": "BUTTON_WIDGET",
                       "hideCard": false,
@@ -265,7 +265,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 20,
+                      "leftColumn": 19,
                       "dynamicBindingPathList": [
                         {
                           "key": "buttonColor"
@@ -277,7 +277,7 @@
                       "text": "Click Here",
                       "isDisabled": false,
                       "key": "k8v89y4pw6",
-                      "rightColumn": 45,
+                      "rightColumn": 44,
                       "isDefaultClickDisabled": true,
                       "widgetId": "78k1xc8nxz",
                       "isVisible": true,
@@ -333,8 +333,8 @@
                       "widgetName": "Text5",
                       "displayName": "Text",
                       "iconSVG": "/static/media/icon.97c59b52.svg",
-                      "topRow": 65,
-                      "bottomRow": 74,
+                      "topRow": 59,
+                      "bottomRow": 66,
                       "parentRowSpace": 10,
                       "type": "TEXT_WIDGET",
                       "hideCard": false,
@@ -376,8 +376,8 @@
                       "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
                       "displayName": "Button",
                       "iconSVG": "/static/media/icon.cca02633.svg",
-                      "topRow": 75,
-                      "bottomRow": 80,
+                      "topRow": 67,
+                      "bottomRow": 72,
                       "parentRowSpace": 10,
                       "type": "BUTTON_WIDGET",
                       "hideCard": false,
@@ -388,7 +388,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 20,
+                      "leftColumn": 19,
                       "dynamicBindingPathList": [
                         {
                           "key": "buttonColor"
@@ -400,7 +400,7 @@
                       "text": "Click Here",
                       "isDisabled": false,
                       "key": "vkg32qymzs",
-                      "rightColumn": 45,
+                      "rightColumn": 44,
                       "isDefaultClickDisabled": true,
                       "widgetId": "muyvbpmk77",
                       "isVisible": true,
@@ -417,8 +417,8 @@
                       "widgetName": "Text6",
                       "displayName": "Text",
                       "iconSVG": "/static/media/icon.97c59b52.svg",
-                      "topRow": 81,
-                      "bottomRow": 90,
+                      "topRow": 73,
+                      "bottomRow": 80,
                       "parentRowSpace": 10,
                       "type": "TEXT_WIDGET",
                       "hideCard": false,
@@ -427,7 +427,7 @@
                       "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
                       "parentColumnSpace": 13.75,
                       "dynamicTriggerPathList": [],
-                      "leftColumn": 1,
+                      "leftColumn": 0,
                       "dynamicBindingPathList": [
                         {
                           "key": "fontFamily"
@@ -440,7 +440,7 @@
                       "truncateButtonColor": "#FFC13D",
                       "text": "for IV year notes",
                       "key": "qoq3zz1ss6",
-                      "rightColumn": 64,
+                      "rightColumn": 63,
                       "textAlign": "CENTER",
                       "widgetId": "9quy93u4o4",
                       "isVisible": true,
@@ -460,8 +460,8 @@
                       "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
                       "displayName": "Button",
                       "iconSVG": "/static/media/icon.cca02633.svg",
-                      "topRow": 91,
-                      "bottomRow": 96,
+                      "topRow": 82,
+                      "bottomRow": 87,
                       "parentRowSpace": 10,
                       "type": "BUTTON_WIDGET",
                       "hideCard": false,
@@ -472,7 +472,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 20,
+                      "leftColumn": 19,
                       "dynamicBindingPathList": [
                         {
                           "key": "buttonColor"
@@ -484,7 +484,7 @@
                       "text": "Click Here",
                       "isDisabled": false,
                       "key": "rbnagz75s2",
-                      "rightColumn": 45,
+                      "rightColumn": 44,
                       "isDefaultClickDisabled": true,
                       "widgetId": "1w3ozk8qe4",
                       "isVisible": true,
