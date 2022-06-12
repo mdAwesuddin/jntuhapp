@@ -725,6 +725,42 @@
                       "isLoading": false,
                       "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
                       "fontSize": "1rem"
+                    },
+                    {
+                      "widgetName": "Rating1",
+                      "displayName": "Rating",
+                      "iconSVG": "/static/media/icon.914eb943.svg",
+                      "topRow": 86,
+                      "bottomRow": 90,
+                      "parentRowSpace": 10,
+                      "type": "RATE_WIDGET",
+                      "maxCount": 5,
+                      "hideCard": false,
+                      "animateLoading": true,
+                      "parentColumnSpace": 13.310546875,
+                      "dynamicTriggerPathList": [],
+                      "leftColumn": 1,
+                      "dynamicBindingPathList": [
+                        {
+                          "key": "activeColor"
+                        }
+                      ],
+                      "isDisabled": false,
+                      "key": "s9l8rm8o2z",
+                      "isRequired": false,
+                      "isDeprecated": false,
+                      "rightColumn": 11,
+                      "inactiveColor": "#D6D6D6",
+                      "widgetId": "8i77dxjutx",
+                      "isVisible": true,
+                      "parentId": "91uim94kgw",
+                      "renderMode": "CANVAS",
+                      "isLoading": false,
+                      "defaultRate": 3,
+                      "activeColor": "{{appsmith.theme.colors.primaryColor}}",
+                      "size": "LARGE",
+                      "isAllowHalf": false,
+                      "tooltips": "[\n  \"Terrible\",\n  \"Bad\",\n  \"Neutral\",\n  \"Good\",\n  \"Great\"\n]"
                     }
                   ],
                   "key": "zecdw8lnbq",
@@ -768,6 +804,7 @@
           "Divider2",
           "MainContainer",
           "MenuButton1",
+          "Rating1",
           "Text1",
           "Text2",
           "Text3",
