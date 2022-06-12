@@ -26,9 +26,9 @@
           "leftColumn": 0,
           "children": [
             {
-              "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+              "boxShadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)",
               "widgetName": "Container1",
-              "borderColor": "transparent",
+              "borderColor": "#18181b",
               "isCanvas": true,
               "displayName": "Container",
               "iconSVG": "/static/media/icon.1977dca3.svg",
@@ -39,15 +39,9 @@
               "hideCard": false,
               "animateLoading": true,
               "parentColumnSpace": 14.0625,
+              "dynamicTriggerPathList": [],
               "leftColumn": 0,
-              "dynamicBindingPathList": [
-                {
-                  "key": "borderRadius"
-                },
-                {
-                  "key": "boxShadow"
-                }
-              ],
+              "dynamicBindingPathList": [],
               "children": [
                 {
                   "boxShadow": "none",
@@ -206,7 +200,7 @@
                   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}"
                 }
               ],
-              "borderWidth": "0",
+              "borderWidth": "3",
               "key": "12ab0mbee0",
               "backgroundColor": "#FFFFFF",
               "rightColumn": 64,
@@ -217,7 +211,7 @@
               "parentId": "0",
               "renderMode": "CANVAS",
               "isLoading": false,
-              "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}"
+              "borderRadius": "0.375rem"
             }
           ]
         },
