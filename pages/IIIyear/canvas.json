@@ -76,7 +76,7 @@
                       "displayName": "Text",
                       "iconSVG": "/static/media/icon.97c59b52.svg",
                       "topRow": 1,
-                      "bottomRow": 7,
+                      "bottomRow": 11,
                       "parentRowSpace": 10,
                       "type": "TEXT_WIDGET",
                       "hideCard": false,
@@ -85,7 +85,7 @@
                       "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
                       "parentColumnSpace": 13.75,
                       "dynamicTriggerPathList": [],
-                      "leftColumn": 24,
+                      "leftColumn": 1,
                       "dynamicBindingPathList": [
                         {
                           "key": "fontFamily"
@@ -98,7 +98,7 @@
                       "truncateButtonColor": "#FFC13D",
                       "text": "III year Notes",
                       "key": "ovs8bm2b97",
-                      "rightColumn": 40,
+                      "rightColumn": 62,
                       "textAlign": "CENTER",
                       "widgetId": "z6d3s6nxt4",
                       "isVisible": true,
