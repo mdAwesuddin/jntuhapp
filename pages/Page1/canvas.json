@@ -180,7 +180,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 23,
+                      "leftColumn": 20,
                       "dynamicBindingPathList": [
                         {
                           "key": "buttonColor"
@@ -193,7 +193,7 @@
                       "text": "Click Here",
                       "isDisabled": false,
                       "key": "k8v89y4pw6",
-                      "rightColumn": 42,
+                      "rightColumn": 45,
                       "isDefaultClickDisabled": true,
                       "widgetId": "k4q18c2gzf",
                       "isVisible": true,
@@ -265,7 +265,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 23,
+                      "leftColumn": 20,
                       "dynamicBindingPathList": [
                         {
                           "key": "buttonColor"
@@ -277,7 +277,7 @@
                       "text": "Click Here",
                       "isDisabled": false,
                       "key": "k8v89y4pw6",
-                      "rightColumn": 42,
+                      "rightColumn": 45,
                       "isDefaultClickDisabled": true,
                       "widgetId": "78k1xc8nxz",
                       "isVisible": true,
@@ -388,7 +388,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 23,
+                      "leftColumn": 20,
                       "dynamicBindingPathList": [
                         {
                           "key": "buttonColor"
@@ -400,7 +400,7 @@
                       "text": "Click Here",
                       "isDisabled": false,
                       "key": "vkg32qymzs",
-                      "rightColumn": 42,
+                      "rightColumn": 45,
                       "isDefaultClickDisabled": true,
                       "widgetId": "muyvbpmk77",
                       "isVisible": true,
@@ -472,7 +472,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 23,
+                      "leftColumn": 20,
                       "dynamicBindingPathList": [
                         {
                           "key": "buttonColor"
@@ -484,7 +484,7 @@
                       "text": "Click Here",
                       "isDisabled": false,
                       "key": "rbnagz75s2",
-                      "rightColumn": 42,
+                      "rightColumn": 45,
                       "isDefaultClickDisabled": true,
                       "widgetId": "1w3ozk8qe4",
                       "isVisible": true,
@@ -641,7 +641,7 @@
                       "dynamicBindingPathList": [],
                       "isDisabled": false,
                       "key": "m1gt7scx7v",
-                      "rightColumn": 14,
+                      "rightColumn": 19,
                       "iconName": "align-justify",
                       "menuVariant": "PRIMARY",
                       "widgetId": "2sb99osrwn",
