@@ -808,27 +808,6 @@
           ]
         },
         "layoutOnLoadActions": [],
-        "widgetNames": [
-          "Button1",
-          "Button2",
-          "Button3",
-          "Button4",
-          "Canvas1",
-          "Container1",
-          "Divider1",
-          "Divider2",
-          "MainContainer",
-          "MenuButton1",
-          "Rating1",
-          "Text1",
-          "Text2",
-          "Text2Copy",
-          "Text2Copy1",
-          "Text2Copy2",
-          "Text3",
-          "Text4",
-          "Text5"
-        ],
         "validOnPageLoadActions": true,
         "id": "Home",
         "deleted": false,
@@ -841,6 +820,5 @@
     "isHidden": true
   },
   "deleted": false,
-  "policies": [],
   "gitSyncId": "6292423bb4c51656bfeabee6_6292423bb4c51656bfeabee8"
 }

@@ -872,30 +872,6 @@
           ]
         },
         "layoutOnLoadActions": [],
-        "widgetNames": [
-          "Button1",
-          "Button2",
-          "Button3",
-          "Button4",
-          "Button5",
-          "Button6",
-          "Button7",
-          "Canvas1",
-          "Canvas2",
-          "Container1",
-          "Divider1",
-          "IconButton1",
-          "IconButton2",
-          "MainContainer",
-          "Modal1",
-          "Text1",
-          "Text2",
-          "Text3",
-          "Text4",
-          "Text5",
-          "Text6",
-          "Text7"
-        ],
         "validOnPageLoadActions": true,
         "id": "common",
         "deleted": false,
@@ -908,6 +884,5 @@
     "isHidden": true
   },
   "deleted": false,
-  "policies": [],
   "gitSyncId": "6292423bb4c51656bfeabee6_62a57fd4c269a01a4277e27d"
 }

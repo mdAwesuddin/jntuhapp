@@ -181,13 +181,6 @@
           ]
         },
         "layoutOnLoadActions": [],
-        "widgetNames": [
-          "Canvas1",
-          "Container1",
-          "Divider1",
-          "MainContainer",
-          "Text1"
-        ],
         "validOnPageLoadActions": true,
         "id": "Entrance Papers",
         "deleted": false,
@@ -200,6 +193,5 @@
     "isHidden": true
   },
   "deleted": false,
-  "policies": [],
   "gitSyncId": "6292423bb4c51656bfeabee6_629328bbb4c51656bfeadea3"
 }

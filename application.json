@@ -1,4 +1,38 @@
 {
+  "pages": [
+    {
+      "id": "Home",
+      "isDefault": true
+    },
+    {
+      "id": "i year",
+      "isDefault": false
+    },
+    {
+      "id": "IIyear",
+      "isDefault": false
+    },
+    {
+      "id": "Entrance Papers",
+      "isDefault": false
+    },
+    {
+      "id": "IIIyear",
+      "isDefault": false
+    },
+    {
+      "id": "IVyear",
+      "isDefault": false
+    },
+    {
+      "id": "common",
+      "isDefault": false
+    },
+    {
+      "id": "common2",
+      "isDefault": false
+    }
+  ],
   "viewMode": false,
   "appIsExample": false,
   "unreadCommentThreads": 0,
@@ -12,9 +46,5 @@
   "evaluationVersion": 2,
   "applicationVersion": 2,
   "isManualUpdate": false,
-  "createdAt": {
-    "seconds": 1653752379,
-    "nanos": 133000000
-  },
   "deleted": false
 }

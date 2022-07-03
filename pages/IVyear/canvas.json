@@ -222,14 +222,6 @@
           ]
         },
         "layoutOnLoadActions": [],
-        "widgetNames": [
-          "Canvas1",
-          "Container1",
-          "Divider1",
-          "MainContainer",
-          "Text1",
-          "Text2"
-        ],
         "validOnPageLoadActions": true,
         "id": "IVyear",
         "deleted": false,
@@ -242,6 +234,5 @@
     "isHidden": true
   },
   "deleted": false,
-  "policies": [],
   "gitSyncId": "6292423bb4c51656bfeabee6_62932999b4c51656bfeadee4"
 }

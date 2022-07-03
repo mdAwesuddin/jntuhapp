@@ -6,6 +6,7 @@
     "datasource": {
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin",
+      "organizationId": "6292423bb4c51656bfeabee5",
       "invalids": [
         "No datasource configuration found. Please configure it and try again."
       ],

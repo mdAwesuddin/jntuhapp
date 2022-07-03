@@ -351,17 +351,6 @@
           ]
         },
         "layoutOnLoadActions": [],
-        "widgetNames": [
-          "Button1",
-          "Button2",
-          "Canvas1",
-          "Container1",
-          "Divider1",
-          "MainContainer",
-          "Text1",
-          "Text2",
-          "Text3"
-        ],
         "validOnPageLoadActions": true,
         "id": "i year",
         "deleted": false,
@@ -374,6 +363,5 @@
     "isHidden": true
   },
   "deleted": false,
-  "policies": [],
   "gitSyncId": "6292423bb4c51656bfeabee6_62924627b4c51656bfeabf6b"
 }
