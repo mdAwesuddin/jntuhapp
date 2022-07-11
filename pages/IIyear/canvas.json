@@ -661,7 +661,7 @@
                       "animateLoading": true,
                       "parentColumnSpace": 13.75,
                       "dynamicTriggerPathList": [],
-                      "leftColumn": 34,
+                      "leftColumn": 33,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -675,7 +675,7 @@
                       "orientation": "vertical",
                       "strokeStyle": "solid",
                       "isDeprecated": false,
-                      "rightColumn": 37,
+                      "rightColumn": 36,
                       "widgetId": "ry9ut4yfst",
                       "accentColor": "{{appsmith.theme.colors.primaryColor}}",
                       "capSide": 0,
