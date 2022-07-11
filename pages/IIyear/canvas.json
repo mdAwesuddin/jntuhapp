@@ -48,7 +48,7 @@
                   "widgetName": "Canvas1",
                   "displayName": "Canvas",
                   "topRow": 0,
-                  "bottomRow": 990,
+                  "bottomRow": 870,
                   "parentRowSpace": 1,
                   "type": "CANVAS_WIDGET",
                   "canExtend": false,
@@ -399,8 +399,8 @@
                       "text": "SEM 1:",
                       "key": "c3p63y0zf6",
                       "isDeprecated": false,
-                      "rightColumn": 20,
-                      "textAlign": "LEFT",
+                      "rightColumn": 32,
+                      "textAlign": "CENTER",
                       "widgetId": "pc2gwqptwx",
                       "isVisible": true,
                       "fontStyle": "BOLD",
@@ -430,7 +430,7 @@
                       "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
                       "parentColumnSpace": 13.75,
                       "dynamicTriggerPathList": [],
-                      "leftColumn": 47,
+                      "leftColumn": 37,
                       "dynamicBindingPathList": [
                         {
                           "key": "fontFamily"
@@ -445,7 +445,7 @@
                       "key": "c3p63y0zf6",
                       "isDeprecated": false,
                       "rightColumn": 63,
-                      "textAlign": "LEFT",
+                      "textAlign": "CENTER",
                       "widgetId": "qg4lp2cj3e",
                       "isVisible": true,
                       "fontStyle": "BOLD",
@@ -653,7 +653,7 @@
                         "line"
                       ],
                       "topRow": 22,
-                      "bottomRow": 97,
+                      "bottomRow": 85,
                       "parentRowSpace": 10,
                       "type": "DIVIDER_WIDGET",
                       "capType": "nc",
