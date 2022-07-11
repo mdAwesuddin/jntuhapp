@@ -158,7 +158,7 @@
                       "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
                       "parentColumnSpace": 13.75,
                       "dynamicTriggerPathList": [],
-                      "leftColumn": 4,
+                      "leftColumn": 3,
                       "dynamicBindingPathList": [
                         {
                           "key": "fontFamily"
@@ -259,7 +259,7 @@
                       "isDisabled": false,
                       "key": "ib2nj5y5rv",
                       "isDeprecated": false,
-                      "rightColumn": 26,
+                      "rightColumn": 25,
                       "isDefaultClickDisabled": true,
                       "iconName": "circle-arrow-down",
                       "widgetId": "6b4kigipf5",
@@ -441,7 +441,7 @@
                       ],
                       "shouldTruncate": false,
                       "truncateButtonColor": "#FFC13D",
-                      "text": "sem 2:",
+                      "text": "SEM 2:",
                       "key": "c3p63y0zf6",
                       "isDeprecated": false,
                       "rightColumn": 63,
