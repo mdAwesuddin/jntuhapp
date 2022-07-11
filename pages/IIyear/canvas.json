@@ -1106,6 +1106,7 @@
                     {
                       "boxShadow": "0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05)",
                       "widgetName": "Button9",
+                      "onClick": "{{navigateTo('https://drive.google.com/drive/folders/1cpvko0m-lqwiK2XdVr4Uete6DjZlIczt?usp=sharing', {},'NEW_WINDOW')}}",
                       "buttonColor": "#1e3a8a",
                       "displayName": "Button",
                       "iconSVG": "/static/media/icon.cca026338f1c8eb6df8ba03d084c2fca.svg",
@@ -1120,7 +1121,11 @@
                       "hideCard": false,
                       "animateLoading": true,
                       "parentColumnSpace": 13.75,
-                      "dynamicTriggerPathList": [],
+                      "dynamicTriggerPathList": [
+                        {
+                          "key": "onClick"
+                        }
+                      ],
                       "leftColumn": 42,
                       "dynamicBindingPathList": [
                         {
