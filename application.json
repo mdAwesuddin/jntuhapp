@@ -37,8 +37,9 @@
   "appIsExample": false,
   "unreadCommentThreads": 0,
   "color": "#FFEBFB",
+  "icon": "book",
   "unpublishedAppLayout": {
-    "type": "FLUID"
+    "type": "DESKTOP"
   },
   "publishedAppLayout": {
     "type": "FLUID"
