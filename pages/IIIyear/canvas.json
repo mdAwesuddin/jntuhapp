@@ -147,7 +147,7 @@
                       "isDisabled": false,
                       "key": "r7l4s2wicm",
                       "isDeprecated": false,
-                      "rightColumn": 43,
+                      "rightColumn": 44,
                       "isDefaultClickDisabled": true,
                       "iconName": "circle-arrow-down",
                       "widgetId": "hj1hw9u9rw",
@@ -193,7 +193,7 @@
                       "isDisabled": false,
                       "key": "r7l4s2wicm",
                       "isDeprecated": false,
-                      "rightColumn": 43,
+                      "rightColumn": 44,
                       "isDefaultClickDisabled": true,
                       "iconName": "circle-arrow-down",
                       "widgetId": "tuwcd4rdkt",
@@ -285,7 +285,7 @@
                       "isDisabled": false,
                       "key": "r7l4s2wicm",
                       "isDeprecated": false,
-                      "rightColumn": 43,
+                      "rightColumn": 44,
                       "isDefaultClickDisabled": true,
                       "iconName": "circle-arrow-down",
                       "widgetId": "vs725q81vr",
@@ -423,7 +423,7 @@
                       "isDisabled": false,
                       "key": "r7l4s2wicm",
                       "isDeprecated": false,
-                      "rightColumn": 43,
+                      "rightColumn": 44,
                       "isDefaultClickDisabled": true,
                       "iconName": "circle-arrow-down",
                       "widgetId": "hlhvga7l4h",
@@ -523,7 +523,7 @@
                       "displayName": "Text",
                       "iconSVG": "/static/media/icon.97c59b52.svg",
                       "topRow": 17,
-                      "bottomRow": 22,
+                      "bottomRow": 23,
                       "parentRowSpace": 10,
                       "type": "TEXT_WIDGET",
                       "hideCard": false,
@@ -569,8 +569,8 @@
                         "click",
                         "submit"
                       ],
-                      "topRow": 27,
-                      "bottomRow": 31,
+                      "topRow": 24,
+                      "bottomRow": 28,
                       "parentRowSpace": 10,
                       "type": "ICON_BUTTON_WIDGET",
                       "hideCard": false,
@@ -854,7 +854,7 @@
                       "isDisabled": false,
                       "key": "r7l4s2wicm",
                       "isDeprecated": false,
-                      "rightColumn": 43,
+                      "rightColumn": 44,
                       "isDefaultClickDisabled": true,
                       "iconName": "circle-arrow-down",
                       "widgetId": "ed1z20uv42",
@@ -878,7 +878,7 @@
                       "searchTags": [
                         "stars"
                       ],
-                      "topRow": 163,
+                      "topRow": 162,
                       "bottomRow": 167,
                       "parentRowSpace": 10,
                       "type": "RATE_WIDGET",
@@ -891,7 +891,7 @@
                           "key": "onRateChanged"
                         }
                       ],
-                      "leftColumn": 44,
+                      "leftColumn": 36,
                       "dynamicBindingPathList": [
                         {
                           "key": "activeColor"
