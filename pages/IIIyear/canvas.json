@@ -141,7 +141,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 22,
+                      "leftColumn": 20,
                       "dynamicBindingPathList": [],
                       "text": "Download",
                       "isDisabled": false,
@@ -187,7 +187,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 22,
+                      "leftColumn": 20,
                       "dynamicBindingPathList": [],
                       "text": "Download",
                       "isDisabled": false,
@@ -279,7 +279,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 22,
+                      "leftColumn": 20,
                       "dynamicBindingPathList": [],
                       "text": "Download",
                       "isDisabled": false,
@@ -405,8 +405,8 @@
                         "click",
                         "submit"
                       ],
-                      "topRow": 117,
-                      "bottomRow": 122,
+                      "topRow": 118,
+                      "bottomRow": 123,
                       "parentRowSpace": 10,
                       "type": "BUTTON_WIDGET",
                       "hideCard": false,
@@ -417,7 +417,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 22,
+                      "leftColumn": 20,
                       "dynamicBindingPathList": [],
                       "text": "Download",
                       "isDisabled": false,
@@ -848,13 +848,13 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 22,
+                      "leftColumn": 20,
                       "dynamicBindingPathList": [],
                       "text": "Download",
                       "isDisabled": false,
                       "key": "r7l4s2wicm",
                       "isDeprecated": false,
-                      "rightColumn": 44,
+                      "rightColumn": 45,
                       "isDefaultClickDisabled": true,
                       "iconName": "circle-arrow-down",
                       "widgetId": "ed1z20uv42",
