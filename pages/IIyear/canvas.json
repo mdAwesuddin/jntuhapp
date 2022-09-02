@@ -342,7 +342,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 18,
+                      "leftColumn": 19,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -475,7 +475,7 @@
                       "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
                       "parentColumnSpace": 13.75,
                       "dynamicTriggerPathList": [],
-                      "leftColumn": 17,
+                      "leftColumn": 12,
                       "dynamicBindingPathList": [
                         {
                           "key": "fontFamily"
@@ -489,7 +489,7 @@
                       "text": "Computer Oreinted Statistical Methods:",
                       "key": "c3p63y0zf6",
                       "isDeprecated": false,
-                      "rightColumn": 46,
+                      "rightColumn": 51,
                       "textAlign": "CENTER",
                       "widgetId": "hfswcq19ea",
                       "isVisible": true,
@@ -525,7 +525,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 18,
+                      "leftColumn": 19,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -618,7 +618,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 18,
+                      "leftColumn": 19,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -711,7 +711,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 18,
+                      "leftColumn": 19,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
