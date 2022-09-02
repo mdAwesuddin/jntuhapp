@@ -661,7 +661,7 @@
                       "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
                       "parentColumnSpace": 13.75,
                       "dynamicTriggerPathList": [],
-                      "leftColumn": 17,
+                      "leftColumn": 12,
                       "dynamicBindingPathList": [
                         {
                           "key": "fontFamily"
@@ -675,7 +675,7 @@
                       "text": "Object Oreinted Programming Using C++:",
                       "key": "c3p63y0zf6",
                       "isDeprecated": false,
-                      "rightColumn": 46,
+                      "rightColumn": 51,
                       "textAlign": "CENTER",
                       "widgetId": "ln7auzsoyn",
                       "isVisible": true,
@@ -721,7 +721,7 @@
                       "isDisabled": false,
                       "key": "148ac80eac",
                       "isDeprecated": false,
-                      "rightColumn": 42,
+                      "rightColumn": 43,
                       "isDefaultClickDisabled": true,
                       "iconName": "circle-arrow-down",
                       "widgetId": "l1zdzrvr9d",
