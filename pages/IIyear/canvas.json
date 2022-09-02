@@ -253,13 +253,13 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 20,
+                      "leftColumn": 19,
                       "dynamicBindingPathList": [],
                       "text": "Download",
                       "isDisabled": false,
                       "key": "ib2nj5y5rv",
                       "isDeprecated": false,
-                      "rightColumn": 41,
+                      "rightColumn": 43,
                       "isDefaultClickDisabled": true,
                       "iconName": "circle-arrow-down",
                       "widgetId": "6b4kigipf5",
@@ -283,7 +283,7 @@
                         "paragraph"
                       ],
                       "topRow": 39,
-                      "bottomRow": 45,
+                      "bottomRow": 46,
                       "parentRowSpace": 10,
                       "type": "TEXT_WIDGET",
                       "hideCard": false,
@@ -330,8 +330,8 @@
                         "click",
                         "submit"
                       ],
-                      "topRow": 45,
-                      "bottomRow": 50,
+                      "topRow": 46,
+                      "bottomRow": 51,
                       "parentRowSpace": 10,
                       "type": "BUTTON_WIDGET",
                       "hideCard": false,
@@ -342,7 +342,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 20,
+                      "leftColumn": 18,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -352,7 +352,7 @@
                       "isDisabled": false,
                       "key": "148ac80eac",
                       "isDeprecated": false,
-                      "rightColumn": 41,
+                      "rightColumn": 43,
                       "isDefaultClickDisabled": true,
                       "iconName": "circle-arrow-down",
                       "widgetId": "8hezef86kv",
@@ -466,7 +466,7 @@
                         "paragraph"
                       ],
                       "topRow": 51,
-                      "bottomRow": 57,
+                      "bottomRow": 58,
                       "parentRowSpace": 10,
                       "type": "TEXT_WIDGET",
                       "hideCard": false,
@@ -513,8 +513,8 @@
                         "click",
                         "submit"
                       ],
-                      "topRow": 57,
-                      "bottomRow": 62,
+                      "topRow": 58,
+                      "bottomRow": 63,
                       "parentRowSpace": 10,
                       "type": "BUTTON_WIDGET",
                       "hideCard": false,
@@ -525,7 +525,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 20,
+                      "leftColumn": 18,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -535,7 +535,7 @@
                       "isDisabled": false,
                       "key": "148ac80eac",
                       "isDeprecated": false,
-                      "rightColumn": 41,
+                      "rightColumn": 43,
                       "isDefaultClickDisabled": true,
                       "iconName": "circle-arrow-down",
                       "widgetId": "vq7ybp20mb",
@@ -618,7 +618,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 20,
+                      "leftColumn": 18,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -628,7 +628,7 @@
                       "isDisabled": false,
                       "key": "148ac80eac",
                       "isDeprecated": false,
-                      "rightColumn": 41,
+                      "rightColumn": 43,
                       "isDefaultClickDisabled": true,
                       "iconName": "circle-arrow-down",
                       "widgetId": "ldf2jtsuu7",
@@ -711,7 +711,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 20,
+                      "leftColumn": 18,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -721,7 +721,7 @@
                       "isDisabled": false,
                       "key": "148ac80eac",
                       "isDeprecated": false,
-                      "rightColumn": 41,
+                      "rightColumn": 42,
                       "isDefaultClickDisabled": true,
                       "iconName": "circle-arrow-down",
                       "widgetId": "l1zdzrvr9d",
@@ -744,8 +744,8 @@
                         "typography",
                         "paragraph"
                       ],
-                      "topRow": 97,
-                      "bottomRow": 103,
+                      "topRow": 96,
+                      "bottomRow": 104,
                       "parentRowSpace": 10,
                       "type": "TEXT_WIDGET",
                       "hideCard": false,
@@ -792,8 +792,8 @@
                         "click",
                         "submit"
                       ],
-                      "topRow": 103,
-                      "bottomRow": 108,
+                      "topRow": 104,
+                      "bottomRow": 109,
                       "parentRowSpace": 10,
                       "type": "BUTTON_WIDGET",
                       "hideCard": false,
@@ -804,7 +804,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 20,
+                      "leftColumn": 19,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -814,7 +814,7 @@
                       "isDisabled": false,
                       "key": "148ac80eac",
                       "isDeprecated": false,
-                      "rightColumn": 41,
+                      "rightColumn": 42,
                       "isDefaultClickDisabled": true,
                       "iconName": "circle-arrow-down",
                       "widgetId": "zfv1a1d00o",
