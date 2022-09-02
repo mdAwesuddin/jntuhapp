@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 1900,
+          "bottomRow": 1940,
           "containerStyle": "none",
           "snapRows": 67,
           "parentRowSpace": 1,
@@ -33,7 +33,7 @@
               "displayName": "Container",
               "iconSVG": "/static/media/icon.1977dca3.svg",
               "topRow": 0,
-              "bottomRow": 188,
+              "bottomRow": 192,
               "parentRowSpace": 10,
               "type": "CONTAINER_WIDGET",
               "hideCard": false,
@@ -148,8 +148,8 @@
                       "widgetName": "Text2",
                       "displayName": "Text",
                       "iconSVG": "/static/media/icon.97c59b52.svg",
-                      "topRow": 17,
-                      "bottomRow": 22,
+                      "topRow": 16,
+                      "bottomRow": 23,
                       "parentRowSpace": 10,
                       "type": "TEXT_WIDGET",
                       "hideCard": false,
@@ -193,8 +193,8 @@
                         "typography",
                         "paragraph"
                       ],
-                      "topRow": 27,
-                      "bottomRow": 33,
+                      "topRow": 28,
+                      "bottomRow": 34,
                       "parentRowSpace": 10,
                       "type": "TEXT_WIDGET",
                       "hideCard": false,
@@ -375,8 +375,8 @@
                         "typography",
                         "paragraph"
                       ],
-                      "topRow": 22,
-                      "bottomRow": 26,
+                      "topRow": 24,
+                      "bottomRow": 28,
                       "parentRowSpace": 10,
                       "type": "TEXT_WIDGET",
                       "hideCard": false,
@@ -754,7 +754,7 @@
                       "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
                       "parentColumnSpace": 13.75,
                       "dynamicTriggerPathList": [],
-                      "leftColumn": 17,
+                      "leftColumn": 12,
                       "dynamicBindingPathList": [
                         {
                           "key": "fontFamily"
@@ -768,7 +768,7 @@
                       "text": "Business Economics And Financial Analysis:",
                       "key": "c3p63y0zf6",
                       "isDeprecated": false,
-                      "rightColumn": 43,
+                      "rightColumn": 51,
                       "textAlign": "CENTER",
                       "widgetId": "l4o69l5lur",
                       "isVisible": true,
@@ -814,7 +814,7 @@
                       "isDisabled": false,
                       "key": "148ac80eac",
                       "isDeprecated": false,
-                      "rightColumn": 42,
+                      "rightColumn": 43,
                       "isDefaultClickDisabled": true,
                       "iconName": "circle-arrow-down",
                       "widgetId": "zfv1a1d00o",
@@ -847,7 +847,7 @@
                       "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
                       "parentColumnSpace": 13.75,
                       "dynamicTriggerPathList": [],
-                      "leftColumn": 17,
+                      "leftColumn": 12,
                       "dynamicBindingPathList": [
                         {
                           "key": "fontFamily"
@@ -861,7 +861,7 @@
                       "text": "Database Management And Systems:",
                       "key": "c3p63y0zf6",
                       "isDeprecated": false,
-                      "rightColumn": 43,
+                      "rightColumn": 51,
                       "textAlign": "CENTER",
                       "widgetId": "llkda0tfvk",
                       "isVisible": true,
@@ -897,7 +897,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 20,
+                      "leftColumn": 19,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -907,7 +907,7 @@
                       "isDisabled": false,
                       "key": "148ac80eac",
                       "isDeprecated": false,
-                      "rightColumn": 41,
+                      "rightColumn": 43,
                       "isDefaultClickDisabled": true,
                       "iconName": "circle-arrow-down",
                       "widgetId": "5h0atxhnpx",
@@ -990,7 +990,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 20,
+                      "leftColumn": 19,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -1000,7 +1000,7 @@
                       "isDisabled": false,
                       "key": "148ac80eac",
                       "isDeprecated": false,
-                      "rightColumn": 41,
+                      "rightColumn": 43,
                       "isDefaultClickDisabled": true,
                       "iconName": "circle-arrow-down",
                       "widgetId": "x2q0uhsu38",
@@ -1083,7 +1083,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 20,
+                      "leftColumn": 19,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -1093,7 +1093,7 @@
                       "isDisabled": false,
                       "key": "148ac80eac",
                       "isDeprecated": false,
-                      "rightColumn": 41,
+                      "rightColumn": 43,
                       "isDefaultClickDisabled": true,
                       "iconName": "circle-arrow-down",
                       "widgetId": "ferf67wwlb",
@@ -1118,8 +1118,8 @@
                       "searchTags": [
                         "line"
                       ],
-                      "topRow": 150,
-                      "bottomRow": 154,
+                      "topRow": 154,
+                      "bottomRow": 158,
                       "parentRowSpace": 10,
                       "type": "DIVIDER_WIDGET",
                       "capType": "nc",
@@ -1160,8 +1160,8 @@
                       "searchTags": [
                         "stars"
                       ],
-                      "topRow": 145,
-                      "bottomRow": 149,
+                      "topRow": 148,
+                      "bottomRow": 154,
                       "parentRowSpace": 10,
                       "type": "RATE_WIDGET",
                       "maxCount": 5,
@@ -1173,7 +1173,7 @@
                           "key": "onRateChanged"
                         }
                       ],
-                      "leftColumn": 43,
+                      "leftColumn": 36,
                       "dynamicBindingPathList": [
                         {
                           "key": "activeColor"
@@ -1211,8 +1211,8 @@
                         "paragraph",
                         "label"
                       ],
-                      "topRow": 155,
-                      "bottomRow": 160,
+                      "topRow": 158,
+                      "bottomRow": 163,
                       "parentRowSpace": 10,
                       "type": "TEXT_WIDGET",
                       "hideCard": false,
@@ -1257,8 +1257,8 @@
                         "paragraph",
                         "label"
                       ],
-                      "topRow": 160,
-                      "bottomRow": 164,
+                      "topRow": 163,
+                      "bottomRow": 167,
                       "parentRowSpace": 10,
                       "type": "TEXT_WIDGET",
                       "hideCard": false,
