@@ -9,7 +9,7 @@
         "label"
     ],
     "topRow": 75,
-    "bottomRow": 81,
+    "bottomRow": 82,
     "parentRowSpace": 10,
     "type": "TEXT_WIDGET",
     "hideCard": false,
@@ -19,7 +19,7 @@
     "fontFamily": "Nunito Sans",
     "parentColumnSpace": 13.576416015625,
     "dynamicTriggerPathList": [],
-    "leftColumn": 20,
+    "leftColumn": 15,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "borderRadius"}
@@ -29,7 +29,7 @@
     "text": "Cyptography And Network Security",
     "key": "h4y2qmkeuq",
     "isDeprecated": false,
-    "rightColumn": 46,
+    "rightColumn": 51,
     "textAlign": "CENTER",
     "dynamicHeight": "FIXED",
     "widgetId": "4hj5gtx7qu",

@@ -16,7 +16,7 @@
     "isReadOnly": false,
     "parentColumnSpace": 13.78125,
     "dynamicTriggerPathList": [{"key": "onRateChanged"}],
-    "leftColumn": 37,
+    "leftColumn": 29,
     "dynamicBindingPathList": [{"key": "activeColor"}],
     "isDisabled": false,
     "key": "m7ophxjiil",

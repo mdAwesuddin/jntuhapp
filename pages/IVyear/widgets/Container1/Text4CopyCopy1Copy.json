@@ -8,8 +8,8 @@
         "paragraph",
         "label"
     ],
-    "topRow": 88,
-    "bottomRow": 94,
+    "topRow": 90,
+    "bottomRow": 96,
     "parentRowSpace": 10,
     "type": "TEXT_WIDGET",
     "hideCard": false,
@@ -19,7 +19,7 @@
     "fontFamily": "Nunito Sans",
     "parentColumnSpace": 13.576416015625,
     "dynamicTriggerPathList": [],
-    "leftColumn": 20,
+    "leftColumn": 15,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "borderRadius"}
@@ -29,7 +29,7 @@
     "text": "Cloud Computing",
     "key": "h4y2qmkeuq",
     "isDeprecated": false,
-    "rightColumn": 46,
+    "rightColumn": 51,
     "textAlign": "CENTER",
     "dynamicHeight": "FIXED",
     "widgetId": "f6elqywi9m",

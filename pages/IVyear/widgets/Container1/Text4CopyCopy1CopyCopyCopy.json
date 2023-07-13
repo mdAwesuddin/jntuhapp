@@ -19,7 +19,7 @@
     "fontFamily": "Nunito Sans",
     "parentColumnSpace": 13.576416015625,
     "dynamicTriggerPathList": [],
-    "leftColumn": 20,
+    "leftColumn": 15,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "borderRadius"}
@@ -29,7 +29,7 @@
     "text": "Organisational Behaviour",
     "key": "h4y2qmkeuq",
     "isDeprecated": false,
-    "rightColumn": 46,
+    "rightColumn": 51,
     "textAlign": "CENTER",
     "dynamicHeight": "FIXED",
     "widgetId": "1yz6pm8yu3",
