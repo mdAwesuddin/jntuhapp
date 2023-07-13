@@ -1,0 +1,58 @@
+{
+    "isCompact": false,
+    "boxShadow": "none",
+    "widgetName": "MenuButton1",
+    "displayName": "Menu Button",
+    "iconSVG": "/static/media/icon.0341d17d.svg",
+    "topRow": 24,
+    "bottomRow": 28,
+    "parentRowSpace": 10,
+    "type": "MENU_BUTTON_WIDGET",
+    "hideCard": false,
+    "animateLoading": true,
+    "parentColumnSpace": 13.310546875,
+    "dynamicTriggerPathList": [
+        {"key": "menuItems.menuItem1.onClick"},
+        {"key": "menuItems.menuItem2.onClick"}
+    ],
+    "leftColumn": 3,
+    "dynamicBindingPathList": [{"key": "borderRadius"}],
+    "isDisabled": false,
+    "key": "eni21rf1wm",
+    "isDeprecated": false,
+    "rightColumn": 21,
+    "iconName": "align-justify",
+    "menuVariant": "PRIMARY",
+    "widgetId": "ib0egtpbt6",
+    "menuItems": {
+        "menuItem1": {
+            "onClick": "{{navigateTo('Home', {})}}",
+            "widgetId": "",
+            "index": 0,
+            "label": "Jntuh Notes",
+            "id": "menuItem1",
+            "isVisible": true,
+            "isDisabled": false
+        },
+        "menuItem2": {
+            "onClick": "{{navigateTo('Entrance Papers', {},'NEW_WINDOW')}}",
+            "widgetId": "",
+            "index": 1,
+            "label": "Entrance Papers",
+            "id": "menuItem2",
+            "isVisible": true,
+            "isDisabled": false
+        }
+    },
+    "isVisible": true,
+    "label": "Menu",
+    "version": 1,
+    "parentId": "qwh5rks3ge",
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "menuColor": "#1d4ed8",
+    "menuItemsSource": "STATIC",
+    "iconAlign": "left",
+    "placement": "CENTER"
+}
